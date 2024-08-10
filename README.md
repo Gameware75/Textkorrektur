@@ -52,5 +52,6 @@ Falls Fehler auftreten, überprüfen Sie bitte die folgenden Punkte:
 Ist der OpenAI API-Schlüssel korrekt gesetzt?
 Ist die signal.mp3-Datei im richtigen Verzeichnis vorhanden?
 Sind alle benötigten Python-Pakete installiert?
-##Lizenz
+
+## Lizenz
 Dieses Projekt steht unter der MIT-Lizenz. Siehe die LICENSE-Datei für weitere Informationen.
